@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Change languageApplication</string>
+    <string name="register">பதிவு</string>
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="login">உள்நுழைய</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="changelanguage">changelanguage</string>
+</resources>
